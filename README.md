@@ -1,3 +1,5 @@
+[![All Stars](https://github-readme-stats.vercel.app/api?username=detronetdip)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m Ayondip Jana (@detronetdip)
 - 👀 I’m interested in Full-Stack Web Developement 
 - 🌱 I’m currently learning MERN
