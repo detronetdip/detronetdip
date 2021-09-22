@@ -11,3 +11,8 @@
 detronetdip/detronetdip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### Connect with me:
+
+[<img align="left" alt="detronetdip | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
+[<img align="left" alt="detronetdip | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
+[<img align="left" alt="detronetdip | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
