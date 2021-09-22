@@ -1,5 +1,5 @@
 <p align="center">
-   <img alt="All Stars" src="https://github-readme-stats.vercel.app/api?username=detronetdip)](https://github.com/anuraghazra/github-readme-stats"/>
+   <img alt="All Stars" src="https://github-readme-stats.vercel.app/api?username=detronetdip&show_icons=true&include_all_commits=true&hide_border=true"/>
  </p>
 
 - 👋 Hi, I’m Ayondip Jana (@detronetdip)
