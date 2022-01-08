@@ -1,6 +1,7 @@
 [twitter]: https://twitter.com/AyondipJ
 [github]: https://www.github.com/detronetdip
 [gmail]: mailto:ayondip2001@gmail.com
+[linkedin]: https://www.linkedin.com/in/ayondip-jana-51951a1b9/
 <p align="center">
    <img alt="All Stars" src="https://github-readme-stats.vercel.app/api?username=detronetdip&show_icons=true&include_all_commits=true&hide_border=true"/>
  </p>
