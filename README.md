@@ -16,7 +16,8 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Connect with me:
 
-[<img align="left" alt="detronetdip | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
-[<img align="left" alt="detronetdip | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
-[<img align="left" alt="detronetdip | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
+[<img align="left" alt="detronetdip | Twitter" width="22px" src="images/twitter-app.svg" />][twitter]
+[<img align="left" alt="detronetdip | Github" width="22px" src="images/github.svg" />][github]
+[<img align="left" alt="detronetdip | Email" width="22px" src="images/gmail.svg" />][gmail]
+[<img align="left" alt="detronetdip | Linkedin" width="22px" src="images/linkedin-app.svg" />][linkedin]
 
