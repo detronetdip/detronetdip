@@ -6,9 +6,9 @@
    <img alt="All Stars" src="https://github-readme-stats.vercel.app/api?username=detronetdip&show_icons=true&include_all_commits=true&hide_border=true"/>
  </p>
 
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I’m Ayondip Jana (@detronetdip)
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px"> I’m interested in Full-Stack Web and software Developement 
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px"> <h6>I’m currently learning MERN</h6>
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"> Hi, I’m Ayondip Jana (@detronetdip)
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="25px"> I’m interested in Full-Stack Web and software Developement 
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="25px"> I’m currently learning MERN
 
 
 <!---
