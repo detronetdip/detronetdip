@@ -23,5 +23,7 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="detronetdip | Linkedin" width="22px" src="images/linkedin-app.svg" />][linkedin]
 
 
-<br/>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=detronetdip.detronetdip)
+<p align="left">
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=detronetdip.detronetdip)
+ </p>
+
