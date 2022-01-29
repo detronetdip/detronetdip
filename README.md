@@ -8,7 +8,7 @@
 
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I’m Ayondip Jana (@detronetdip)
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px"> I’m interested in Full-Stack Web and software Developement 
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px"> I’m currently learning MERN
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px"> <h6>I’m currently learning MERN</h6>
 
 
 <!---
