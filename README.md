@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=detronetdip.detronetdip)
 
-### Connect with me:
+### Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 [<img align="left" alt="detronetdip | Twitter" width="22px" src="images/twitter-app.svg" />][twitter]
 [<img align="left" alt="detronetdip | Github" width="22px" src="images/github.svg" />][github]
