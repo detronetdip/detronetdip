@@ -2,12 +2,14 @@
 [github]: https://www.github.com/detronetdip
 [gmail]: mailto:ayondip2001@gmail.com
 [linkedin]: https://www.linkedin.com/in/ayondip-jana-51951a1b9/
-<p align="center">
-   <a href="https://app.daily.dev/_dip"><img src="https://api.daily.dev/devcards/5f8bc7e144f94f2d851f3a2d56d82baf.png?r=l3g" width="400" alt="Ayondip Jana's Dev Card"/></a>
+<p style="display:flex;align-items:center;justify-content:space-around;">
+   <a href="https://app.daily.dev/_dip">
+   <img src="https://api.daily.dev/devcards/5f8bc7e144f94f2d851f3a2d56d82baf.png?r=l3g" width="315" height="400" alt="Ayondip Jana's Dev Card"/>
+   </a>
    <img alt="All Stars" src="https://github-readme-stats.vercel.app/api?username=detronetdip&show_icons=true&include_all_commits=true&hide_border=true"/>
  </p>
 
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29vw"> Hi, I’m Ayondip Jana (@detronetdip)
+## 🧑🏻‍💻 Hello everyone, I'm Ayondip Jana(Detronetdip)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/><br>
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29vw"> I’m interested in Full-Stack Web and software Developement 
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29vw"> I’m currently learning MERN and DevOps
 
