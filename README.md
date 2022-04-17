@@ -6,8 +6,8 @@
    <a href="https://app.daily.dev/_dip">
    <img src="https://api.daily.dev/devcards/5f8bc7e144f94f2d851f3a2d56d82baf.png?r=l3g" width="315" height="400" alt="Ayondip Jana's Dev Card"/>
    </a>
-   <img alt="All Stars" src="https://github-readme-stats.vercel.app/api?username=detronetdip&show_icons=true&include_all_commits=true&hide_border=true"/>
- </p>
+   <img alt="All Stars" width="315" height="600" src="https://github-readme-stats.vercel.app/api?username=detronetdip&show_icons=true&include_all_commits=true&hide_border=true"/>
+</p>
 
 ## 🧑🏻‍💻 Hello everyone, I'm Ayondip Jana(Detronetdip)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/><br>
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29vw"> I’m interested in Full-Stack Web and software Developement 
