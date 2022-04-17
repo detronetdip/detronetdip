@@ -20,6 +20,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=detronetdip.detronetdip)
+<a href="#">![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
 
 ### Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
