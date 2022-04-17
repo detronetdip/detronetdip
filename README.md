@@ -3,6 +3,7 @@
 [gmail]: mailto:ayondip2001@gmail.com
 [linkedin]: https://www.linkedin.com/in/ayondip-jana-51951a1b9/
 <p align="center">
+   <a href="https://app.daily.dev/_dip"><img src="https://api.daily.dev/devcards/5f8bc7e144f94f2d851f3a2d56d82baf.png?r=l3g" width="400" alt="Ayondip Jana's Dev Card"/></a>
    <img alt="All Stars" src="https://github-readme-stats.vercel.app/api?username=detronetdip&show_icons=true&include_all_commits=true&hide_border=true"/>
  </p>
 
