@@ -28,7 +28,7 @@
 - 👯 I’m looking to collaborate with other Developers. :raised_hands:
 - 💬 Ask me about anything, I'm happy to help! :smile:
 - 📬 How to reach me: [Drop me a text!][linkedin]
-- 📹 Let's connect! I'd love to know the kind of movie you watch to.
+- 📹 Let's connect! I'd love to know the kind of movie you watch.
 
 <br>
 
