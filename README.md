@@ -34,12 +34,12 @@
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=detronetdip&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&cache_seconds=1800" alt="alpha037's Github Stats" width="60%">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=detronetdip&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&cache_seconds=1800" alt="detronetdip's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=detronetdip&show_icons=true&hide_border=true&theme=radical" width="37%" alt="alpha037's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=detronetdip&show_icons=true&hide_border=true&theme=radical" width="37%" alt="detronetdip's Top Languages">
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=detronetdip&theme=dark" alt="alpha037's Github Streaks" width="70%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=detronetdip&theme=dark" alt="detronetdip's Github Streaks" width="70%">
 </div>
 
 <br>
