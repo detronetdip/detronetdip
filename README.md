@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"Bug in production"</b></h4>
+  <h4 align="center"><b>Student || Web Developer || DevOps enthusiasts || Freelancer</b></h4>
 </p>
 
 <p align="center">
