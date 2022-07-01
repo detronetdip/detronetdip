@@ -15,8 +15,8 @@
 
 <p align="center">
 <br>
-<a href="mailto:ayondip2001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" /></a>&nbsp;
 <a href="https://twitter.com/AyondipJ" target="_blank"><img src="https://img.shields.io/twitter/follow/AyondipJ?color=blue&label=Follow&logo=twitter&style=for-the-badge" alt="Facebook" /></a>&nbsp;
+<a href="mailto:ayondip2001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/ayondip-jana-51951a1b9/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 
