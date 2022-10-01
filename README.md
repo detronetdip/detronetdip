@@ -42,7 +42,9 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=detronetdip&theme=dark" alt="detronetdip's Github Streaks" width="70%">
 </div>
-
+<br>
+<h3 align="center">My Hacktoberfest badge board</h3>
+[![@detronetdip's Holopin board](https://holopin.io/api/user/board?user=detronetdip)](https://holopin.io/@detronetdip)
 <br>
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
