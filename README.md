@@ -40,6 +40,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=detronetdip&show_icons=true&hide_border=true&theme=radical" width="37%" alt="detronetdip's Top Languages">
 
 <div align="center">
+<h3> :zap: Recent Activity </h3>
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=detronetdip&theme=dark" alt="detronetdip's Github Streaks" width="70%">
 </div>
 <br>
