@@ -25,7 +25,7 @@
 ### I'm a student and self learned web developer
 
 - 🔭 I’m currently working on my problem solving skills.
-- 🌱 I’m currently learning MERN and DevOps.
+- 🌱 I’m currently learning MEAN and DevOps.
 - 👯 I’m looking to collaborate with other Developers. :raised_hands:
 - 💬 Ask me about anything, I'm happy to help! :smile:
 - 📬 How to reach me: [Drop me a text!][linkedin]
