@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>Student || Web Developer || DevOps enthusiasts || Freelancer</b></h4>
+  <h4 align="center"><b>Software engineer || DevOps enthusiasts || Freelancer</b></h4>
   <h6 align="center">Building <a href="https://newsr.vercel.app/">NewsR</a> </h6>
 </p>
 
